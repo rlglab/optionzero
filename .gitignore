@@ -1,0 +1,16 @@
+# execute and library file
+build/
+__pycache__
+
+# configuration file
+*.cfg
+
+# training folder
+*_az_*/
+*_gaz_*/
+*_mz_*/
+*_gmz_*/
+
+# others
+.vscode
+.container_root
